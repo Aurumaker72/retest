@@ -3,7 +3,7 @@
 ---
 --- SPDX-License-Identifier: GPL-3.0-or-later
 ---
- 
+
 local retest = {
     _VERSION = 'v0.0.1',
     _URL = 'https://github.com/Aurumaker72/retest',
